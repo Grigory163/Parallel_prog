@@ -20,4 +20,3 @@ def check() -> None:
 if __name__ == "__main__":
     check()
 
-    #data\1_100.txt
